@@ -1,0 +1,28 @@
+*{
+    overflow: hidden;
+    
+}
+body{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: url("/assets/tree.jpg.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-size: 25px;
+    color: black;
+    text-align:center;
+ }
+ form{
+    margin-left:70px;
+    padding:30px;
+    font-size:25px;
+ }
+ button{
+    font-size: 15px;
+ }
+ .frm{
+    padding: 5px;
+ }
